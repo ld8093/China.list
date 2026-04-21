@@ -1,7 +1,7 @@
 # NAME: Direct connectioncn to China
 # AUTHOR: ld8093
 # REPO: https://github.com/ld8093/Direct-connection-to-China.list
-# UPDATED: 2026-04-21 16:18:50
+# UPDATED: 2026-04-21 16:31:50
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
 DOMAIN-SUFFIX,caiyunapp.com,DIRECT
@@ -28,3 +28,4 @@ DOMAIN-KEYWORD,img.bfzypic.com,DIRECT
 DOMAIN-KEYWORD,wogg.xxooo.cf,DIRECT
 DOMAIN-KEYWORD,wwgz.cn,DIRECT
 DOMAIN-KEYWORD,woggpan.333232.xyz,DIRECT
+DOMAIN-KEYWORD,0daydown,DIRECT
